@@ -1,6 +1,5 @@
 ###                                                                                                                           Hi there Samuel👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=![about_me](https://github.com/N3bulaX/N3bulaX/assets/117851699/89d27ce5-b315-434a-b8b7-915cfdaaed8d)
-;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Samuel+Marin;Developer+Active/learne,recead+of+text)](https://git.io/typing-svg)
 
 # ¡Hola! 👋
 
