@@ -1,7 +1,8 @@
-###                                                                                                                           Hi there Samuel👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Samuel+Marin;Developer+Active/learne,recead+of+text)](https://git.io/typing-svg)
+###                                                                                                 Hi there Samuel👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+learn+new+stuffs..<3;Active+learne/Researche;Computer+Science+Studen)](https://git.io/typing-svg)
 
-# ¡Hola! 👋
+#![about_me](https://github.com/N3bulaX/N3bulaX/assets/117851699/4da3e0ba-5c0e-49b0-86c0-904c64ff9cd4)
+
 
 ¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta del desarrollo de software apasionado por crear soluciones innovadoras. Aquí encontrarás una variedad de proyectos que reflejan mis intereses y habilidades en el mundo de la tecnología.
 
