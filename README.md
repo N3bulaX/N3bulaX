@@ -1,20 +1,17 @@
-###                                                                                                 Hil, I´m Samuel👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+learn+new+stuffs..<3;Active+learne/Researche;Computer+Science+Studen)](https://git.io/typing-svg)
+### Hi, I'm Samuel👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+learn+new+stuffs..<3;Active+learner/Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 
+Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find a variety of projects that reflect my interests and skills in the world of technology.
 
-
-
-¡Bienvenido a mi perfil de GitHub! Soy Samuel, un entusiasta del desarrollo de software apasionado por crear soluciones innovadoras. Aquí encontrarás una variedad de proyectos que reflejan mis intereses y habilidades en el mundo de la tecnología.
-
-# ![about_me](https://github.com/N3bulaX/N3bulaX/assets/117851699/d7d2d855-711a-4124-9b54-cba6d347e979) Sobre mí
+# ![about_me](https://github.com/N3bulaX/N3bulaX/assets/117851699/d7d2d855-711a-4124-9b54-cba6d347e979) About Me
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💻 Desarrollador de software                                                                                                                                      
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- 🚀 Apasionado por transformar ideas en código
-- 📚 Compartiendo conocimientos y experiencias a través de proyectos
+- 💻 Software Developer
+- 🌱 Always learning and exploring new technologies
+- 🚀 Passionate about turning ideas into code
+- 📚 Sharing knowledge and experiences through projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -23,7 +20,7 @@
 
 <p align="center">
 
-Habilidades
+Skills
 
 - **Languages**:
     
@@ -54,26 +51,23 @@ Habilidades
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
-## Mis Proyectos Destacados
+## My Featured Projects
 
-Aquí hay algunos proyectos que he desarrollado recientemente y de los que estoy especialmente orgulloso:
+Here are some projects that I have recently developed and of which I am especially proud:
 
-- [Kali_Linux](https://github.com/N3bulaX/AutoBspwm):Entorno automatizado para distrubicones de Kali Linux ![Captura de pantalla 2024-02-20 013918](https://github.com/N3bulaX/N3bulaX/assets/117851699/6233ab1d-578b-4075-96c1-266e08568d9b)
+- [Kali_Linux](https://github.com/N3bulaX/AutoBspwm): Automated environment for Kali Linux distributions ![Captura de pantalla 2024-02-20 013918](https://github.com/N3bulaX/N3bulaX/assets/117851699/6233ab1d-578b-4075-96c1-266e08568d9b)
 
-- [midnight-discord](https://github.com/N3bulaX/midnight-discord):Tema personalizado para la verision modificada de Discord mediante Vencord![279550343-b831a8a7-1e7f-4114-9420-cbbb8e8f184f](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
+- [midnight-discord](https://github.com/N3bulaX/midnight-discord): Custom theme for the modified version of Discord through Vencord![279550343-b831a8a7-1e7f-4114-9420-cbbb8e8f184f](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
 
-
-
-## Contacto
+## Contact
 stunk_89@outlook.com
 
-¡Me encantaría conectarme contigo! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo de software, no dudes en ponerte en contacto conmigo:
+I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
 
-- 📧 Correo Electrónico: [stunk_89@outlook.com](mailto:stunk_89@outlook.com)
-- 💬 LinkedIn: [Tu Nombre](enlace_a_tu_perfil_de_LinkedIn)
+- 📧 Email: [stunk_89@outlook.com](mailto:stunk_89@outlook.com)
+- 💬 LinkedIn: [Your Name](enlace_a_tu_perfil_de_LinkedIn)
 - 🐦 Twitter: [@aun_no](enlace_a_tu_cuenta_de_Twitter)
 
-## ¡Gracias por visitar!
+## Thanks for visiting!
 
-¡Gracias por tomarte el tiempo para explorar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. No dudes en echar un vistazo y deja tus estrellas ⭐️ si encuentras algo que te guste. ¡Hasta pronto! 👋
-
+Thanks for taking the time to explore my profile! I hope you find my projects interesting and useful. Feel free to take a look around and leave your stars ⭐️ if you find something you like. See you soon! 👋
