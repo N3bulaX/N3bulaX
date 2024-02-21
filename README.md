@@ -1,4 +1,4 @@
-### Hi, I'm Samuel👋
+### Hil, I'm Samuel👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+learn+new+stuffs..<3;Active+learner/Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find a variety of projects that reflect my interests and skills in the world of technology.
