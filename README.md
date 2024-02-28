@@ -79,8 +79,8 @@ stunk_89@outlook.com
 I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
 
 - 📧 Email: [stunk_89@outlook.com](mailto:stunk_89@outlook.com)
-- 💬 LinkedIn: [Your Name](enlace_a_tu_perfil_de_LinkedIn)
-- 🐦 Twitter: [@aun_no](enlace_a_tu_cuenta_de_Twitter)
+- 💬 LinkedIn: [.](enlace_a_tu_perfil_de_LinkedIn)
+- 🐦 Twitter: [.](enlace_a_tu_cuenta_de_Twitter)
 
 ## Thanks for visiting!
 
