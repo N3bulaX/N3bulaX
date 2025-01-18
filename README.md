@@ -78,7 +78,7 @@ Here are some projects that I have recently developed and of which I am especial
 
 I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
 
-- 📧 Email: [.](mailto:smx8@proton.me)
+- 📧 Email: [samuel](mailto:smx8@proton.me)
 
 ## Thanks for visiting!
 
