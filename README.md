@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find a variety of projects that reflect my interests and skills in the world of technology.
 
-# ![about_me] About Me
+# About Me
 
 - 💻 Software Developer
 - 🌱 Always learning and exploring new technologies
