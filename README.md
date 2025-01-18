@@ -79,7 +79,7 @@ Custom theme for the modified version of Discord through Vencord.
 I'm always open to connecting with like-minded individuals. If you want to discuss software development, share ideas, or collaborate, feel free to reach out!
 
 - 📧 Email: [smx8@proton.me](mailto:smx8@proton.me)
-- 💼 LinkedIn: [Samuel's Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Samuel's Profile](https://www.linkedin.com/in/kevin-samuel-marin-soto-725718347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
