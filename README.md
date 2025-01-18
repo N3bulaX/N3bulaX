@@ -69,8 +69,8 @@ Automated environment for Kali Linux distributions.
 ---
 
 ### [Midnight-Discord](https://github.com/N3bulaX/midnight-discord)  
-Custom theme for the modified version of Discord through Vencord.  
-![Project Screenshot](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
+cursor for windows 
+[cursor](https://github.com/user-attachments/assets/30f55765-2f2b-4b84-a939-26b6781c8ff8)([https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5](https://github.com/N3bulaX/Vision-Cursor))
 
 ---
 
