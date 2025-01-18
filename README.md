@@ -78,9 +78,7 @@ Here are some projects that I have recently developed and of which I am especial
 
 I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
 
-- 📧 Email: [.](mailto:stunk_89@outlook.com)
-- 💬 LinkedIn: [.](enlace_a_tu_perfil_de_LinkedIn)
-- 🐦 Twitter: [.](enlace_a_tu_cuenta_de_Twitter)
+- 📧 Email: [.](mailto:smx8@proton.me)
 
 ## Thanks for visiting!
 
