@@ -65,12 +65,12 @@ Welcome to my GitHub profile! I'm Samuel, a software development enthusiast pass
 ### [AutoBspwm](https://github.com/N3bulaX/AutoBspwm)  
 Automated environment for Kali Linux distributions.  
 ![Project Screenshot](https://github.com/N3bulaX/N3bulaX/assets/117851699/6233ab1d-578b-4075-96c1-266e08568d9b)
+![cursor](https://github.com/user-attachments/assets/5fa90f07-fba2-489b-bb37-c581c4be59dc)
 
 ---
 
-### [Midnight-Discord](https://github.com/N3bulaX/midnight-discord)  
+### [Vision-Cursor](https://github.com/N3bulaX/Vision-Cursor)  
 cursor for windows 
-[cursor](https://github.com/user-attachments/assets/30f55765-2f2b-4b84-a939-26b6781c8ff8)([https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5](https://github.com/N3bulaX/Vision-Cursor))
 
 ---
 
