@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find a variety of projects that reflect my interests and skills in the world of technology.
 
-# ![about_me](https://github.com/N3bulaX/N3bulaX/assets/117851699/d7d2d855-711a-4124-9b54-cba6d347e979) About Me
+# ![about_me] About Me
 
 - 💻 Software Developer
 - 🌱 Always learning and exploring new technologies
