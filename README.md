@@ -74,7 +74,6 @@ Here are some projects that I have recently developed and of which I am especial
 - [midnight-discord](https://github.com/N3bulaX/midnight-discord): Custom theme for the modified version of Discord through Vencord![279550343-b831a8a7-1e7f-4114-9420-cbbb8e8f184f](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
 
 ## Contact
-.
 
 I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
 
