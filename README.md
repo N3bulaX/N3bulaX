@@ -1,84 +1,88 @@
-### Hil, I'm Samuel👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+learn+new+stuffs..<3;Active+learner/Researcher;Computer+Science+Student)](https://git.io/typing-svg)
+# Hi, I'm Samuel 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer+and+Tech+Enthusiast;Active+Learner+%7C+Researcher;Passionate+about+Innovation)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find a variety of projects that reflect my interests and skills in the world of technology.
+Welcome to my GitHub profile! I'm Samuel, a software development enthusiast passionate about creating innovative solutions. Here you'll find projects that showcase my skills and interests in technology.
 
-# About Me
+---
 
-- 💻 Software Developer
-- 🌱 Always learning and exploring new technologies
-- 🚀 Passionate about turning ideas into code
-- 📚 Sharing knowledge and experiences through projects
+## 🌟 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- 💻 **Software Developer**: Building efficient, scalable, and innovative solutions.
+- 🌱 **Lifelong Learner**: Always exploring new tools and technologies.
+- 🚀 **Creative Problem Solver**: Turning ideas into working solutions.
+- 📚 **Knowledge Sharer**: Passionate about collaborative learning.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+---
 
-<p align="center">
+## 💡 Skills and Technologies
 
-Skills
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=N3bulaX&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=N3bulaX&theme=dark&hide_border=false" /> 
-</td>
+### 🛠️ Backend
+- **Languages:** Node.js, Python, Java
+- **Frameworks:** Express.js, Spring Boot
+- **Databases:** MongoDB, MySQL, DynamoDB
+- **Tools:** Docker, Postman, Firebase
 
-<td width="50%" align="center">
+### 🎨 Frontend
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks/Libraries:** React, Redux, TailwindCSS, Material-UI
+- **Other Tools:** Figma, Bootstrap
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=N3bulaX&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+### 🚀 Others
+- **Version Control:** Git, GitHub
+- **Cloud:** AWS
+- **Operating Systems:** Linux, Windows
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=N3bulaX&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,nodejs,react,redux,tailwind,express,mongodb,py,java,docker,figma,html,css,js,ts,vscode&perline=10" />
   </a>
 </p>
 
-## My Featured Projects
+---
 
-Here are some projects that I have recently developed and of which I am especially proud:
+## 📊 GitHub Stats
 
-- [Kali_Linux](https://github.com/N3bulaX/AutoBspwm): Automated environment for Kali Linux distributions ![Captura de pantalla 2024-02-20 013918](https://github.com/N3bulaX/N3bulaX/assets/117851699/6233ab1d-578b-4075-96c1-266e08568d9b)
+<table align="center">
+<tr>
+  <td align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=N3bulaX&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </td>
+  <td align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N3bulaX&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3bulaX&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
+  </td>
+</tr>
+</table>
 
-- [midnight-discord](https://github.com/N3bulaX/midnight-discord): Custom theme for the modified version of Discord through Vencord![279550343-b831a8a7-1e7f-4114-9420-cbbb8e8f184f](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
+---
 
-## Contact
+## 🌟 Featured Projects
 
-I would love to connect with you! If you have any questions, suggestions, or just want to chat about software development, feel free to get in touch with me:
+### [AutoBspwm](https://github.com/N3bulaX/AutoBspwm)  
+Automated environment for Kali Linux distributions.  
+![Project Screenshot](https://github.com/N3bulaX/N3bulaX/assets/117851699/6233ab1d-578b-4075-96c1-266e08568d9b)
 
-- 📧 Email: [samuel](mailto:smx8@proton.me)
+---
 
-## Thanks for visiting!
+### [Midnight-Discord](https://github.com/N3bulaX/midnight-discord)  
+Custom theme for the modified version of Discord through Vencord.  
+![Project Screenshot](https://github.com/N3bulaX/N3bulaX/assets/117851699/c9451a09-b8c2-4af9-a632-2e10fa950cd5)
 
-Thanks for taking the time to explore my profile! I hope you find my projects interesting and useful. Feel free to take a look around and leave your stars ⭐️ if you find something you like. See you soon! 👋
+---
+
+## 📫 Contact Me
+
+I'm always open to connecting with like-minded individuals. If you want to discuss software development, share ideas, or collaborate, feel free to reach out!
+
+- 📧 Email: [smx8@proton.me](mailto:smx8@proton.me)
+- 💼 LinkedIn: [Samuel's Profile](https://linkedin.com/in/your-profile)
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Thanks for stopping by my profile! If you find my projects interesting, feel free to explore, fork, or leave a ⭐. Let's create something amazing together!
