@@ -68,8 +68,7 @@ Automated environment for Kali Linux distributions.
 
 ---
 
-### [[Midnight-Discord](https://github.com/N3bulaX/midnight-discord](https://github.com/N3bulaX/Vision-Cursor))  
-cursor for windows 
+### [Vision-Cursor]([https://github.com/N3bulaX/midnight-discord] for windows 
 ![cursor](https://github.com/user-attachments/assets/30f55765-2f2b-4b84-a939-26b6781c8ff8)
 
 ---
