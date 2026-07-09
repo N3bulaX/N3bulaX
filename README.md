@@ -1,134 +1,197 @@
-```                            
- _____ _   _ _   _ _   _ _   _____  __
-|  ___| \ | | \ | | \ | | | |  __ \/  |
-| |__ |  \| |  \| |  \| | | | |  \/ /| |
-|  __|| . ` | . ` | . ` | | | | __/_ | |
-| |___| |\  | |\  | |\  | |_| |_\ \ | |/ /
-\____/\_| \_\_| \_\_| \_|\___/\____/ \___/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0044FF&height=200&section=header&text=N3bulaX&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Architecture+%26+Systems+Design;AI+%26+LLM+Infrastructure;Open+Source+Contributor)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Systems;Architecture+%3E+Features;Building+AI-Dev-OS;Spain+%F0%9F%87%AA%F0%9F%87%B8" />
+  </a>
+</p>
 
 ---
 
+<br>
+
+<!-- LEFT COLUMN: About + Stack -->
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-Systems-minded developer focused on **scalable architecture**, **AI/LLM infrastructure**, and **developer tooling**.
+```yaml
+name: Samuel
+alias: smx / N3bulaX
+location: Spain
+role: Full-Stack Developer & AI Systems Engineer
+focus:
+  - Scalable Backend Architecture
+  - LLM Infrastructure & Ops
+  - Agentic Workflows
+  - Developer Tooling
+philosophy: "Architecture over features. Systems that scale."
+```
 
-I build systems that bridge the gap between **software engineering** and **AI operations** — from full-stack applications to distributed intelligence pipelines. My work emphasizes clean architecture, measurable performance, and reproducible environments.
+Systems-first engineer building at the intersection of **software engineering** and **AI infrastructure**. I design architectures that don't just work — they survive.
 
-- 🔭 Currently building [**AI-Dev-OS**](https://github.com/N3bulaX/AI-Dev-OS) — an integrated development OS for AI-native workflows
-- 🌱 Deep diving into **RAG systems**, **agent orchestration**, and **LLM inference at scale**
-- 🧠 Structured thinking → structured code — my [knowledge base](https://github.com/N3bulaX) drives my engineering decisions
-- 🎯 Philosophy: *"Systems that survive need architecture, not just features"*
+<br>
+
+### 🧰 Core Stack
+
+```
+▸ Backend     Node.js · Python · Java · Spring Boot · Express
+▸ Frontend    React · Redux · TypeScript · TailwindCSS
+▸ AI/LLM      LangChain · Ollama · vLLM · Chroma · Qdrant
+▸ Infrastructure  Docker · AWS · Linux · GitHub Actions
+▸ Data        MongoDB · MySQL · DynamoDB · Postman
+```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" valign="top">
 
-```json
-{
-  "location": "Spain 🇪🇸",
-  "role": "Full-Stack & AI Systems",
-  "stack": {
-    "backend": ["Node.js", "Python", "Java"],
-    "frontend": ["React", "TypeScript"],
-    "ai/ml": ["LangChain", "Ollama", "vLLM"],
-    "infra": ["Docker", "AWS", "Linux"]
-  },
-  "interests": [
-    "LLM Ops & Inference",
-    "System Architecture",
-    "Developer Tooling",
-    "RAG & Knowledge Systems"
-  ]
-}
-```
+### 📊 Weekly Pulse
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N3bulaX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="100%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3bulaX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF" width="100%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3bulaX&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
+</p>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-### 🛠️ Technical Ecosystem
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ AI-Dev-OS
+*Integrated Development OS for AI-Native Workflows*
+
+[![Stars](https://img.shields.io/github/stars/N3bulaX/AI-Dev-OS?style=flat&logo=github&color=00D9FF)]()
+[![Repo](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]()
+
+An opinionated platform that unifies **agents, knowledge, memory, and observability** into a single development environment for building AI-powered applications.
 
 ```
-BACKEND  │ Node.js · Python · Java · Express · Spring Boot
-FRONTEND │ React · Redux · TypeScript · TailwindCSS
-AI/LLM   │ LangChain · Ollama · vLLM · Transformers · Chroma
-INFRA    │ Docker · AWS (EC2/S3/Lambda) · Linux · GitHub Actions
-DATA     │ MongoDB · MySQL · DynamoDB · Qdrant
-TOOLS    │ Git · Postman · Figma · VS Code · Obsidian
+├── agents/        → Agent orchestration
+├── knowledge/     → RAG & vector pipelines
+├── memory/        → Persistent memory layer
+├── monitoring/    → Observability stack
+└── core/          → Framework-agnostic runtime
 ```
+
+**Stack:** `Python` · `Docker` · `LangChain` · `Qdrant` · `FastAPI`
+
+---
+
+### 🎯 Vision Cursor
+*Eye-tracking cursor control for Windows*
+
+[![Stars](https://img.shields.io/github/stars/N3bulaX/vision_cursor?style=flat&color=00D9FF)]()
+[![Repo](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/N3bulaX/vision_cursor)
+
+Real-time computer vision application enabling hands-free cursor control through eye movement tracking.
+
+**Stack:** `Python` · `OpenCV` · `MediaPipe`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 AutoBspwm
+*Automated Kali Linux Environment Setup*
+
+[![Stars](https://img.shields.io/github/stars/N3bulaX/AutoBspwm?style=flat&color=00D9FF)]()
+[![Repo](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/N3bulaX/AutoBspwm)
+
+One-command provisioning of a penetration testing environment with BSPWM tiling window manager, pre-configured tools, and optimized workflows.
+
+**Stack:** `Shell` · `Linux` · `BSPWM` · `Kali`
+
+---
+
+### 🎵 Spotify AdBlock
+*Ad-free Spotify client modification*
+
+[![Stars](https://img.shields.io/github/stars/N3bulaX/Spotify?style=flat&color=00D9FF)]()
+[![Repo](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/N3bulaX/Spotify)
+
+Modified Spotify web client that removes audio advertisements while maintaining full playlist and streaming functionality.
+
+**Stack:** `JavaScript`
+
+---
+
+### 🌙 midnight-discord
+*Custom dark aesthetic Discord theme*
+
+[![Stars](https://img.shields.io/github/stars/N3bulaX/midnight-discord?style=flat&color=00D9FF)]()
+[![Repo](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/N3bulaX/midnight-discord)
+
+Minimal, eye-comfort dark theme for Discord with carefully tuned color contrasts.
+
+**Stack:** `CSS`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### 🧠 Current Deep Dives
+
+```
+LLM Inference & Serving         █████████████████░░░░░  78%
+Agent Orchestration Frameworks  ██████████████░░░░░░░░  62%
+RAG & Vector Search             ██████████████████░░░░  85%
+System Architecture & ADRs      ████████████████████░░  90%
+Knowledge Management Systems    ████████████████░░░░░░  73%
+```
+
+<br>
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,redux,python,java,ts,express,mongodb,mysql,aws,docker,linux,git,github,figma,vscode&perline=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=N3bulaX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 </p>
 
----
-
-### 📌 Key Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**AI-Dev-OS**](https://github.com/N3bulaX/AI-Dev-OS) | Integrated development OS for AI-native workflows — agents, knowledge, memory, and observability | `Python` `Docker` `LangChain` `Qdrant` |
-| [**Vision Cursor**](https://github.com/N3bulaX/Vision-Cursor) | Real-time eye-tracking cursor control for accessibility on Windows | `Python` `Computer Vision` |
-| [**AutoBspwm**](https://github.com/N3bulaX/AutoBspwm) | Automated Kali Linux environment setup with BSPWM tiling WM | `Shell` `Linux` `BSPWM` |
-| [**Spotify AdBlock**](https://github.com/N3bulaX/Spotify) | Modified Spotify client — ad-free experience | `JavaScript` |
-| [**midnight-discord**](https://github.com/N3bulaX/midnight-discord) | Custom dark theme for Discord | `CSS` |
-
----
-
-### 📊 Engineering Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=N3bulaX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3bulaX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3bulaX&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🧠 Current Focus Areas
-
-```
-┌─────────────────────────────────────────┐
-│  LLM Inference & Serving                │
-│  ███████████████░░░░░░░  70%            │
-├─────────────────────────────────────────┤
-│  Agent Orchestration Frameworks         │
-│  ████████████░░░░░░░░░░  60%            │
-├─────────────────────────────────────────┤
-│  RAG & Knowledge Retrieval              │
-│  ██████████████████░░░░  85%            │
-├─────────────────────────────────────────┤
-│  System Architecture & ADRs             │
-│  ████████████████████░  90%            │
-└─────────────────────────────────────────┘
-```
+<br>
 
 ---
 
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/N3bulaX"><img src="https://img.shields.io/badge/GitHub-N3bulaX-181717?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://github.com/N3bulaX">
+    <img src="https://img.shields.io/badge/GitHub-N3bulaX-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-samuel.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-N3bulaX-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/N3bulaX/count.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0044FF,100:00D9FF&height=120&section=footer" />
 </p>
