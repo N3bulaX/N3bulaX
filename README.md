@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>N3bulaX</h1>
+  <h1>sxrems</h1>
   <p><strong>Full-Stack · AI Systems · Architecture</strong></p>
   <p>
     <a href="https://github.com/N3bulaX">GitHub</a> •
